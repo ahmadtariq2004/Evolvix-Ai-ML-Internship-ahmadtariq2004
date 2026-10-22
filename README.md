@@ -6,4 +6,4 @@ Here is the log of my weekly tasks:
 - [Week 3](./week-3)
 - [Week 4](./week-4)
 - [Week 5](./Week_5)
-- [Week 6](./Week_6)
+- [Week 6](week-6)
