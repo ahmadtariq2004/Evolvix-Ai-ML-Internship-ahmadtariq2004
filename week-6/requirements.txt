@@ -1,6 +1,8 @@
-numpy>=1.26.0,<2.0.0
-tensorflow-cpu>=2.16.1
+Plaintext
+numpy==1.26.4
+tensorflow-cpu==2.15.0
+keras==2.15.0
 opencv-python-headless==4.11.0.86
-streamlit==1.59.2
+streamlit==1.40.0
 streamlit-drawable-canvas==0.9.3
-Pillow>=10.0,<13
+Pillow>=10.0,<11.0
