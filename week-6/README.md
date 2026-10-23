@@ -72,7 +72,11 @@ If a model file already exists, retraining replaces it at the selected output pa
 ```powershell
 py -m streamlit run app.py
 ```
+## Start the dashboard
 
+**Live Cloud Version:** [Launch on Streamlit Community Cloud](https://evolvix-ai-ml-internship-ahmadtariq2004-cgcv3qnsjx39xt4qsue6s2.streamlit.app/)
+
+Or run locally:
 Streamlit prints the local URL, usually `http://localhost:8501`.
 
 ## Use the app
